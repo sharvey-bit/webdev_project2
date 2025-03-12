@@ -106,3 +106,18 @@ td, th {
   border-bottom: 1px solid #ddd;
   text-align: left;
 }
+
+/* Video styles */
+video {
+  max-width: 100%;
+  height: auto;
+  margin: 15px 0;
+  border-radius: 5px;
+}
+
+/* Iframe styles */
+iframe {
+  max-width: 100%;
+  margin: 15px 0;
+  border-radius: 5px;
+}
