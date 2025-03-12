@@ -74,3 +74,22 @@ h3 {
   color: #34495e;
   margin-bottom: 10px;
 }
+
+/* List styles */
+ul {
+  list-style-position: inside;
+  margin-bottom: 15px;
+}
+
+li {
+  margin-bottom: 5px;
+}
+
+/* Image styles */
+.image1, .image2 {
+  max-width: 100%;
+  height: auto;
+  margin: 15px 0;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
