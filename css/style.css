@@ -211,15 +211,3 @@ iframe {
   background-color: var(--secondary-color);
   cursor: pointer;
 }
-
-/* Responsive design for smaller screens */
-@media (max-width: 768px) {
-  .media-container img,
-  .media-container video,
-  .media-container iframe {
-    width: 100%;
-    max-width: 272px;
-    height: auto;
-    aspect-ratio: 272/363;
-  }
-}
