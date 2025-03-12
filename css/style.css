@@ -93,3 +93,16 @@ li {
   border-radius: 5px;
   box-shadow: 0 2px 5px rgba(0,0,0,0.1);
 }
+
+/* Table styles */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 15px;
+}
+
+td, th {
+  padding: 8px;
+  border-bottom: 1px solid #ddd;
+  text-align: left;
+}
